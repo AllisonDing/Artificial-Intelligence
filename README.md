@@ -19,8 +19,3 @@ The pipeline follows **six fundamental steps**:
 - 📜 **`src/`** – Python scripts implementing each step of the recognition process.  
 - 📄 **`README.md`** – Documentation of the project.  
 
-## 🚀 How to Run the Project  
-### **1. Clone the Repository**  
-```bash
-git clone https://github.com/AllisonDing/Artificial_Intelligence.git
-cd Pattern-Recognition
