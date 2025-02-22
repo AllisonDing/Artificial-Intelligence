@@ -14,6 +14,6 @@ The pipeline follows **six fundamental steps**:
 6️⃣ **Calculating the Properties of Binary Regions** – Extracts shape properties such as area, perimeter, centroid, and aspect ratio.  
 
 ## 📂 Contents  
-- 📄 **`Pattern Recognition Process.pdf`** – Jupyter notebooks with each step explained and outputs.  
+- 📄 **`Pattern Recognition Process.pdf`** – Jupyter notebooks with each step explained and outputs in pdf.  
 - 📄 **`README.md`** – Documentation of the project.
 
